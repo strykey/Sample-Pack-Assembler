@@ -63,9 +63,9 @@ The interface runs in a native desktop window with five distinct visual themes. 
 <td align="center"><b>Acid</b></td>
 </tr>
 <tr>
-<td><img src="https://placehold.co/300x190/0a0a0a/e8e0d0?text=Noir" alt="Noir"/></td>
-<td><img src="https://placehold.co/300x190/0d0118/ff71ce?text=Vapor" alt="Vapor"/></td>
-<td><img src="https://placehold.co/300x190/0f1900/b8ff00?text=Acid" alt="Acid"/></td>
+<td><img src="https://i.ibb.co/5x9bzpk4/Noir.png" alt="Noir"/></td>
+<td><img src="https://i.ibb.co/qFLkHg5n/Vapor.png" alt="Vapor"/></td>
+<td><img src="https://i.ibb.co/Gv1YkS1Z/Acid.png" alt="Acid"/></td>
 </tr>
 <tr>
 <td align="center"><b>Studio</b></td>
@@ -73,8 +73,8 @@ The interface runs in a native desktop window with five distinct visual themes. 
 <td align="center"></td>
 </tr>
 <tr>
-<td><img src="https://placehold.co/300x190/f0ede8/1a1a1a?text=Studio" alt="Studio"/></td>
-<td><img src="https://placehold.co/300x190/2c2416/f4d090?text=Lo-Fi" alt="Lo-Fi"/></td>
+<td><img src="https://i.ibb.co/Lz18r4GH/STUDIO.png" alt="Studio"/></td>
+<td><img src="https://i.ibb.co/wZ62Nmm4/LOFI.png" alt="Lo-Fi"/></td>
 <td></td>
 </tr>
 </table>

@@ -79,8 +79,6 @@ The interface runs in a native desktop window with five distinct visual themes. 
 </tr>
 </table>
 
-*Replace placeholders with real screenshots once the app is running.*
-
 </div>
 
 ---
@@ -212,3 +210,4 @@ made with love by **Strykey**
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c8b89a,40:1a1208,100:0a0a0a&height=120&section=footer" width="100%"/>
 
 </div>
+

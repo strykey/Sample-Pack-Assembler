@@ -89,7 +89,7 @@ The interface runs in a native desktop window with five distinct visual themes. 
 git clone https://github.com/strykey/sample-pack-assembler.git
 cd sample-pack-assembler
 pip install -r requirements.txt
-python main.py
+python SPA.py
 ```
 
 **Requirements**
